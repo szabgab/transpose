@@ -6,7 +6,7 @@ edition = "2021"
 description = "Utility for transposing multi-dimensional data"
 license = "MIT OR Apache-2.0"
 
-repository = "http://github.com/bend-n/transpose"
+repository = "https://github.com/bend-n/transpose"
 keywords = ["array", "transpose", "2d"]
 categories = ["algorithms", "data-structures", "no-std"]
 readme = "README.md"
